@@ -1,7 +1,5 @@
 <?php
-require_once "../Classes/Coordinates.php";
-require_once "../Classes/Polygon.php";
-require_once "../Classes/Line.php";
+require_once "../Classes/autoloader.php";
 
 /**
  * @Param $coordinate1
